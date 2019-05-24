@@ -1,0 +1,3 @@
+[submodule "LNPR"]
+	path = LNPR
+	url = https://github.com/ryuichiueda/LNPR
